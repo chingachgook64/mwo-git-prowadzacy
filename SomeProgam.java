@@ -6,7 +6,7 @@ public class SomeProgram {
 	
 
 	public void manageRockets () {
-		
+		int number = 1;
 	} 
 
 	public void manageTheSatellite() {
